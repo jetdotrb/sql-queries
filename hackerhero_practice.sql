@@ -40,7 +40,7 @@ DELETE FROM users;
 # What's the query for dropping the entire users records in the users table? What's the difference
 # between dropping the table and deleting all records?
 DROP TABLE users;
-# Deleting a table will only delete all the records from the table
+# Deleting will only delete all the records from the table
 # while dropping a table will remove the table from the database and all records will also be gone.
 
 # What's the query for altering the email field to have it be 'email_address' instead?
